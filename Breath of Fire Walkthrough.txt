@@ -1,0 +1,2124 @@
+***********************************************************
+Breath of Fire
+FAQ/Walkthrough FAQ
+Version 1.6
+Albert Cho
+FAQ started: 9/24/02
+Last Update: 6/07/03
+E-Mail Address: kpboy777@yahoo.com
+***********************************************************
+***********************************************************
+Table of Contents:
+1. Introduction
+2. Disclaimer
+3. Version History
+4. Sites that can use this guide
+5. Info about the game
+6. Characters
+7. Walkthrough
+8. Items
+9. Weapons/Armor
+10. Spells
+11. Credits
+12. E-mail policy
+***********************************************************
+
+*********************
+***1. Introduction***
+*********************
+Breath of Fire is one of my favorite games and I decided to make a 
+walkthrough for it. This game may be old, but to any true rpg gamer 
+it's a must play. I suggest playing this game if you liked the Final 
+Fantasy series. This guide is now almost done. All I have left to do is 
+Have you played Breath of Fire?
+
+YES
+NO
+the item list.
+
+*******************
+***2. Disclaimer***
+*******************
+This FAQ is copyright 2002-2003 Albert Cho and can not be used on your 
+site unless you have my permission. If you want to post this FAQ on 
+your website then send me an e-mail telling me specific information. 
+(URL etc.) I will probably say yes 99% of the time if asked. This FAQ 
+shall not be changed in anyway. If you decide to post on your site 
+without my permission legal action will take place.
+
+************************
+***3. Version History***
+************************
+Version 1.6 (6/7/03)- This guide is almost 1 years old. Anyway I 
+finished up the items section and finished the weapon section. All that 
+is left is the armor section and this guide is done.
+
+Version 1.5 (2/27/03)- This guide is now complete. What is next to come 
+you ask. I still need to put up the item, weapon, armor and many more 
+sections. This overall guide is not even close to done. I am working on 
+it so don't worry.
+
+Version 1.4 (2/24/03)- The guide is now 90% done. The next update 
+should be with the finishing of the guide.
+
+Version 1.3 (2/21/03)- Haven't looked at this guide in a while, but 
+today I worked on the walkthrough some more. Its almost 70% done now. I 
+know I still have much work to do.
+
+Version 1.2 (11/3/02)- I haven't updated in a while, but the 
+walkthrough is developing nicely. I am almost done with it and it's 
+very thorough and complete. Soon I will finish everything like I 
+promised.
+
+Version 1.1 (10/02/02)- Huge Update. I got more then halfway done with 
+my walkthrough. I started a little on my character section, but this 
+walkthrough is not even 40% done. It is almost ready for submission.
+
+Version 1.0 (9/24/02)- Started the FAQ. Every single section is 
+incomplete and I am now starting on the walkthrough. Bear with me 
+people it's a long way before its done.
+
+**************************************
+***4. Sites that can use this guide***
+**************************************
+These are the only sites that have my permission to post this guide on 
+their site
+www.gamefaqs.com
+www.neoseekers.com
+www.romgalore.cjb.net
+
+****************************
+***5. Info about the game***
+****************************
+Breath of Fire is different from other rpg games and you will soon see 
+the difference once the first battle starts. The reason for this is 
+because that monster has hp bars that you can see to tell how much hp 
+they have left. The gameplay is pretty easy and not too complicated to 
+understand. This rpg game is not too hard to beat. Gaining levels is 
+pretty hard, but you don't have to be too high of a level to beat the 
+game. Anyway on to the walkthrough.
+
+*******************
+***6. Characters***
+*******************
+These are the ratings for the characters. They will not be numerical, 
+but will be in words. They are my own opinion. This section will cover 
+how good or bad their attack, defense and all their stats are. It will 
+also list their special abilities.
+
+Ryu: Ryu is the hero of this game. He uses a sword most of the time, 
+unless you are using the boomerang. He is the typical hero and is a 
+very good character. He will be in your party about 90% of the time and 
+is one of the best characters in the game. His Dragon skills are very 
+good and you will soon realize the rating for him. He however levels up 
+slowly later on, but his he will get strong weapons and armor so this 
+is not too much of a hindrance.
+------------------------
+HP: Good
+MP: Average
+Strength: Awesome
+Vigor: Good
+Agility: Good
+Wisdom: Average
+Luck: Good
+------------------------
+Special Abilities: Fishing/Dragon Skills
+
+Ryu can fish where you can see little fishes jumping for gold, but you 
+won't use this skill as much as you would in Breath of Fire 2. His 
+second ability makes up for this mediocre skill. However, you will need 
+the fishing ability to get his best equipment later on in the game.
+
+Ryu can turn into different types of Dragons and this ability is 
+awesome. He will fill his HP bar to full no matter what and his later 
+Dragons are very, very powerful. Agne his ultimate Dragon does 999 
+damage per hit. This skill is very nice.
+ 
+Overall: 9.5/10
+
+Nina: Nina is the healer in this game. She will be the second character 
+you get in the game. Almost 90% of her magic spells are oriented to 
+curing or defensive magic. She is a necessity against bosses and a must 
+for your party. She has a pitiful attack, but her defense isn't too 
+bad. Her spells are a must to beat certain bosses.
+------------------------
+HP: Bad
+MP: Awesome
+Strength: Pathetic
+Vigor: Average
+Agility: Good
+Wisdom: Awesome
+Luck: Good
+------------------------
+Special Abilities: Flying
+
+Nina later on in the game can turn into a huge white bird that flies 
+everywhere on the map. If you are flying you can not be attacked and 
+you need it to get some special equipment. Although it is a pretty good 
+ability, her Warp spell is faster to travel from town to town. 
+
+Overall: 8/10
+
+Bo: Bo is a wolf that can shoot arrows. He is pretty good, but he will 
+probably be fused with Karn so you won't use him much later on. During 
+the beginning of the game, however, Bo is a very good character. He has 
+a good attack, but his defense sucks. He has high HP though and his Fry 
+spell is very good against early bosses. Later on in the game, he gets 
+pretty much useless and only good to fuse with Karn.
+------------------------
+HP: Awesome
+MP: Bad
+Strength: Good
+Vigor: Awesome
+Agility: Good
+Wisdom: Bad
+Luck: Pathetic
+------------------------
+Special Abiltity: Hunting
+
+Bo can walk through trees as though they did not exist and this is 
+needed to get into some parts of the story. He can also shoot his bow 
+while you are walking and get some antlers or meat. It can be amusing 
+to see him shoot once in a while. 
+
+Overall: 6/10
+
+Karn: Karn is the thief of your group. If you put him in front of your 
+party then he will pick treasure chests and disarm the traps. He can 
+also pick locks (duh he is a thief). He is not really strong attack 
+wise, but once he learns his special abilities, man he is really good.
+------------------------
+HP: Average
+MP: Average
+Strength: Average
+Vigor: Good
+Agility: Awesome
+Wisdom: Average
+Luck: Awesome
+------------------------
+Special Ability: Pick locks
+
+Karn can disarm traps on the treasure chests so you an avoid the bad 
+effects that comes out from it.
+
+Overall: 8.5/10
+
+Gobi: Gobi is not a very good character in my opinion. He is slow and 
+his defense is not even all that good. He is only good for fusing with 
+Karn. His abilities are very good underwater and he is a key character 
+for traveling further on in this game. However, above water he is not 
+too good. He can do business in a store in Prima, but the chance of 
+getting something good is not too good.
+------------------------
+HP: Good
+MP: Average
+Strength: Good
+Vigor: Average
+Agility: Average
+Wisdom: Average
+Luck: Average
+------------------------
+Special Ability: Turn into a big fish
+
+Gobi can turn into a huge fish underwater to travel. You can not be 
+attacked by enemies in this state and it's the quickest and fastest way 
+to travel underwater. It is a pretty useful ability.
+
+Ox: This huge guy will join your party and will be a pretty good 
+addition. Personally I just use him to fuse with Karn, but he can be 
+pretty good. He has a nice attack and defense, but his agility is 
+something to laugh at. He is not a bad character overall. He just is 
+not my favorite.
+------------------------
+HP: Awesome
+MP: Average
+Strength: Awesome
+Defense: Good
+Vigor: Average
+Agility: Pathetic
+Wisdom: Average
+Luck: Average
+------------------------
+Special Ability: Beat-down
+
+This special ability lets you break down rocks and you need this 
+ability to get some nice items. It is not the best skill, however.
+
+Bleu: She is the only offensive spell caster you will get in this game. 
+Her spells are designed to take out groups of enemies quickly and 
+efficiently. If you want to make this game a bit easier then I suggest 
+taking Bleu, because she is one of the best characters you will ever 
+get. Later on in the game her spells will devastate enemies, but she is 
+a bit weakened against bosses, still useful nonetheless.
+ 
+------------------------
+HP: Bad
+MP: Awesome
+Strength: Pathetic
+Defense: Average
+Vigor: Average
+Agility: Awesome
+Wisdom: Awesome
+Luck: Good
+------------------------
+Special Ability: None
+
+Mogu: This mole is a pretty decent member of your party. I always seem 
+to never use him though. He gains levels pretty quickly, but will have 
+low attack and defense. His HP is quite good for a little guy (no 
+offense). 
+
+------------------------
+HP: Awesome
+MP: N/A
+Strength: Average
+Defense: Average
+Vigor: Average
+Agility: Good
+Wisdom: Average
+Luck: Average
+------------------------
+Special Ability: Dig
+
+Mogu can dig at dragon head places for items or at sandy areas. Pretty 
+useful, and he is needed to get some important items in this game.
+
+********************
+***7. Walkthrough***
+********************
+
+********** 
+**Drogen**
+**********
+Items: V Potion, 300 GP
+New Armor/Weapons: Yes
+Level: 1
+You wake up in a burning building and an old lady is telling you to 
+move. Search the huge chest for a V Potion and head out with her. When 
+you head down talk to everyone to continue the story. Watch the rest of 
+the intro and at the end you will get 300 GP as a gift. After you 
+receive the gold head out of the building and go to your left. There 
+will be a man selling equipment. Buy an armpad and leave the town. 
+Train until you are level 3 before you go really far, because the 
+monsters are pretty hard. The old lady heals you for free so go to her 
+if you need healing. Once you are level 3 head north until you see a 
+huge castle. Head in.
+
+********** 
+**Camlon**
+**********
+Items: None
+New Armor/Weapons: No
+Level: 3
+Just head into the castle, because there really is not much to do in 
+this town. Before you head in I suggest you buy a couple of herbs and 
+antidotes.
+
+*****************
+**Camlon Castle**
+***************** 
+Items: 5 Herbs, 290GP, Bronze Sword, Gauntlet, Visor, 2 Antidotes 
+Level: 6
+This dungeon like place is not really a maze. You should explore every 
+bit of it before going. I suggest staying near a healing spring and 
+leveling up to at least 6 before heading out. You will thank me later. 
+If you get lost in this place... then you really need to sharpen your 
+skills, because this is a basic dungeon. At the end of the dungeon you 
+will see a fat frog. He will be your first boss fight so be ready to 
+face a boss. Heal you HP to full and then talk to him. If your at least 
+level 6 then he will be easy.
+
+******** 
+**Frog**
+******** 
+This is the first boss you have to fight. If you did like I said and 
+leveled to 6 then you should be laughing at this boss fight. The Frog 
+will attack first so watch for your HP in case it gets too low. Then 
+all you have to do is continue to do regular attacks until it gets its 
+second wind. Then after a couple of more hits the Frog should go down. 
+He is one of the easier bosses. If you don't have any herbs, however, 
+you will lose this fight. 
+EXP: 500
+Gold: 350
+Item: Fire Stone 
+
+All the monsters in the castle will be gone now so don't worry about 
+having to face any more battles. Head out of the castle and the King 
+will talk about a quake control. After he finishes talking buy more 
+herbs/antidotes if you need it and head north then east to another 
+town. You will not be able to go in the town until it becomes night so 
+hang outside the town until it becomes dark. I suggest you just fight 
+monsters for a bit. When it becomes night head into the town.
+
+*********
+**Nanai**
+*********
+Items: 300 gold, S. Potion, 2 Herbs
+New Weapon/Armor: Yes
+Level: 8
+You can not use into the inn or the item shop. However, head into the 
+inn and search the chest for the S. Potion. If you get too close to the 
+guards they will throw you out of town so be careful. You can go into 
+the weapon shop but it is very expensive so you will probably not be 
+able to afford it. Head into the huge building and get ready to go 
+through another dungeon like area.
+
+*****************
+**Nanai Dungeon**
+*****************
+Items: 1 Antidote, 720 GP, B Stone, Armpad, F Stone, Cure
+Just collect all the items especially the Stones, as it will come be 
+very useful. After you are done head down the set of stairs. The second 
+level of this dungeon is pretty similar to the first one. It is very 
+much the same and just collect the items and continue. If you are level 
+8 like you supposed to be then this dungeon's monsters are easy and you 
+shouldn't have any trouble whatsoever. Head down the stairs once more 
+and you will be in a different room. Prepare for a decent boss fight. 
+Heal your HP to full before you go in and prepare.
+
+**********
+**Knight**
+********** 
+Big step up in difficulty then the last boss. His T. Bolt spell does 20 
+damage to your character. His regular attacks only do 9-10 damage so do 
+not worry about those. The advantage you have is that you are faster 
+then he is. Save you B and F Stones for now until he gets to about half 
+HP. Then let hell break loose and deal a combined attack of 120 damage 
+by using the Stones. After he gets his second wind then continue to 
+attack him and he should fall. If you are below level 8 then I feel 
+sorry for you. Also if you are not stocked with at least 9 Herbs then I 
+suggest you go back and get some, because you will lose without them. 
+After his HP starts to get low he will start using Recover and that can 
+become VERY annoying. Continue to attack him and heal when necessary is 
+my only advice. 
+
+After you beat the Knight talk to the machine and take out the key. 
+Then step on a blue circle and you will be transported out of the town 
+and the town will be destroyed. You are back at Camlon and talk to King 
+then head out and go back to Nanai. You will see that it is ruined. 
+Head in a northeast direction to find another town.
+
+**********
+**Windia**
+**********
+Items: V. Potion, Suede Shield, Suede Hat, 4 Herbs, 2 Antidote
+New Weapons/Armor: Yes
+Level: 9
+You can find the V. Potion at the Red house. Nothing much else to do. 
+You can buy a chain mail for Ryu if you want, but it is not necessary 
+as you won't be playing with him for a while. Head to the castle and 
+talk to the woman in the gown. She will tell Ryu that the King is not 
+available right now and tells him to go to sleep. Now you are in 
+control of Nina so walk around the castle getting the various items. 
+After you are done head out of the castle and head for the weapon 
+store. You can buy Nina a Bronze Rapier but it is not necessary. I 
+suggest you get a Suede Gown and trade in the dress. After you are done 
+shopping head out and go to the cave west of the town.
+
+*************
+**Aura Cave**
+*************
+Items: Cure, Suede Gown, 220 GP, I. Ore, 2 Herb, B. Stone, C. Stone
+Level: 7
+When you enter 2 guards will say that they will escort you. Say yes and 
+they will join your party. They have a good attack and since Nina has a 
+horrid attack it is a good thing. This cave is not very long. Just make 
+sure you get every single treasure box. I. Ore is a necessary item to 
+continue the game. Gain at least 2 levels for Nina here and it won't 
+take too long. After you are done head out and you will see a town west 
+of the cave. At least get Nina to level 6.. if 7 seems to hard for you.
+
+**********
+**Romero**
+********** 
+Items: L. Potion, Protein B, Map
+New Weapons/Armor: Yes
+Level: 7
+Go to the weapons section of the town and buy Nina a Silk Gown. It will 
+come with a hefty price so be prepared to pay for it. It will be worth 
+it as here defense will rise greatly. Go to the various houses looking 
+for items. You will find the map in a house that has a hole in the 
+middle. Push the bottles. You will understand what I'm saying once you 
+see it. You will hear about a wizard kidnapping girls from the town... 
+pervert... Anyway head out the town the east direction and go into the 
+forest. The forest is exactly straight east from outside the town. If 
+you have problems finding it...
+
+****************
+**Karma Forest**
+****************
+Items: Bandage, 2 Herbs, 150 GP
+Level: 7
+Get Nina to level 7 here at least. I prefer you level her to 8 because 
+it will be easier. The monsters here are not hard. Just have Nina use 
+the E-Key and it will do 30 damage to all enemies and then the soldiers 
+will do mop-up. Easy place to level up and you should take full 
+advantage of it. Anyway after you are done head east and out of the 
+forest.
+
+*************** 
+**Karma Tower**
+***************
+Items: 2 M. Drop, 3 Herbs, 2 Charm, 2 Cure, Life2 
+Level: 8
+Right when you enter if you head a bit to the right you will see a 
+phantom like monster holding a huge reaper. Before you battle him drink 
+from the fountain then talk to the Phantom to engage your 3rd boss 
+fight.
+
+*********
+**Morte**
+*********
+Wow he is the easiest boss fight you will probably ever have. Just have 
+Nina use the E. Key and have the soldiers attack. His attack will only 
+do 10 damage and is pathetic. His second wind isn't that much 
+difference and one more hit from the E. Key will finish him. Nina 
+should level to 8 in this battle.
+
+Continue and search everywhere for treasure chests. This tower is 
+pretty long and you might get lost in some places. You will see another 
+phantom holding a reaper and get ready for a pretty tough boss fight. 
+This boss is a lot harder then the previous. Heal up and talk to it. 
+
+********** 
+**Mortea**
+**********
+I suggest casting Fort immediately on Nina then on Soldier 2 then 
+Soldier 1. During the time Nina cast Fort make Soldier 1 use E. Key and 
+Soldier 2 attack. Then use Attack Up on both of the Soldiers. After 
+that have Nina use E. Key and heal when necessary and attack regularly 
+with the soldiers. Mortea should fall quickly after that. 
+
+After defeating her head up the stairs. Head right and go up the 
+stairs. Save by the dragon and heal by the Spring. Then open up the 
+purple door and step on the steps. The Wizard will use some gas and the 
+birdpeople are helpless because of it. You will engage the Wizard in a 
+battle, but you were supposed to lose it on purpose. The soldier will 
+escape and go for help. This is where Ryu comes in. Join the rescue 
+party outside and get ready to fight the Wizard.
+
+***********************
+**Karma Tower (again)**
+***********************
+Items: Remedy, Rang
+Level: 9
+Head to where the Wizard was last time. Ryu isn't affected by the gas. 
+Get the items and prepare to fight the Wizard.
+
+**********
+**Wizard**
+**********
+The Wizard will use T. Bolt and Freeze. They do about 10-15 damage so 
+you don't have to worry too much. He will get the first attack and just 
+use the E. Key to deal 30 damage every turn. Keep your HP when it 
+starts to fall and he shouldn't be that hard... If you keep continuing 
+this order then the Wizard will fall pretty easily.
+
+Ryu should level after this battle and he takes Nina out of this place 
+and they get a ride back to the castle. The King gets revived by the 
+Remedy and Nina joins your party. You can now head out the east side of 
+the town. Go down the stairs from the King's chambers and in the 
+northeast section of the lower floor is a stair leading down. From 
+there go south then east then talk to the guards. Ignore the treasure 
+chests as you can not get them yet. Head in a southeast direction and 
+go into the first town.
+
+**********
+**Tantar**
+********** 
+Items: Charm, W Ptn.
+Level: 9
+New Weapons/Armor: Yes
+You can buy some new weapons and armor for both Nina and Ryu. Now head 
+south and go into the house that has smoke coming out of the roof. Head 
+inside and give the man your I. Ore and he will make you a saw. There 
+is nothing much else to do in this town so head out and go to the town 
+east of this one. 
+
+********** 
+**Tuntar**
+********** 
+Items: Herb, Cure 
+Level: 9
+New Weapons/Armor: No
+Stock up on some herbs, acorns here and now we need to gain some major 
+levels. Head out of the town. Go in a north west direction until you 
+see a clump of trees and a little opening. Go near it and Ryu will use 
+the saw but it breaks. You can now head in the forest. This place is 
+great to level up. First have Nina use the E. Key and have Ryu use the 
+Rang to hit multigroups of enemies. I suggest getting lots of levels 
+here.
+
+********************* 
+**Forest of Despair**
+********************* 
+Items: Herb, 2 T. Drop, Life, Wrist 
+Level: 11
+Once Nina reaches level 11 head into the building. You should have been 
+training in these woods. There really is not much else to do, but get 
+lots of experience points.
+
+************ 
+**Fortress**
+************
+Items: 2 Life, 3 T. Drop, Long Sword, 5 Herb, Life2, Acorn, Wolf Hat,   
+Level: 11
+Heal up and get ready to start off with a semi-boss fight. The only 
+thing you have to do to beat them is to attack with the Rang with Ryu 
+and use the E. Key with Nina. They don't have a second wind and this 
+battle should be really easy. There will be traps on the ground, so 
+watch out where you are going. Soon you will see more guards. Use the 
+same strategy as last time to beat them. (They are really easy). 
+Continue through this dungeon and you will see 3 guards instead of 2. 
+Fight them using the same strategy as before. The old man Chief will 
+ask you to take their weapons, say yes and he will take you and set a 
+trap for you. Here is a real boss fight.
+
+*******
+**Pog**
+*******
+Pog isn't hard, just first use Fort on Ryu then Nina. After that cast 
+Attack up on Ryu and continue attacking Pog. Have Nina use the E. Key 
+and soon Pog will die. He gives lots of exp and gold and is one of the 
+easier bosses.
+EXP: 1400
+Gold: 800
+
+Soon an Archer will come and rescue you and the fake Chief is revealed 
+as a General. Get ready for yet another boss fight.
+
+*********** 
+**General**
+*********** 
+The General hits pretty hard, but with Bo's Fry spell he should be very 
+easy to beat. First have Nina cast fort on everyone. Have Bo use his 
+Fry spell and have the Ryu use the E. Key. Then have Nina use the E. 
+Key and after Bo runs out of AP have him attack and Ryu should attack 
+as well. The General should die pretty fast.
+EXP: 1500
+Gold: 1300
+
+Head back to the 2 towns after you are done. I suggest you go to the 
+Forest of Despair and start to level up Bo and have Nina at level 13. 
+You will learn the reason why. Anyway Bo is only level 9, so get him to 
+at least level 11 or 12. Head to Tantur and talk to the chief. He will 
+talk about going to Agua and this is how you get there. If you trained 
+Nina to level 13 then use Warp and teleport to Romero, but if you don't 
+have Bo in front of your party and follow the trail going in a 
+northeast direction. Bo can walk through forest. 
+
+*****************
+**Romero (again**
+*****************
+Items: Look in previous Romero section
+New Weapons/Armor: No
+Level: 13 
+If you come here at night then there will be Zombies running around. 
+The town obviously has a big zombie problem. If you talk to chief in 
+the top right corner then he will tell you to rid the zombies and he 
+will tell you about Agua. Come back at night and talk to the old lady 
+and her husband will open up a tomb and you can get a water jar in 
+there. You will need it later. In order for him to open up the tomb you 
+must talk to everyone who is not a zombie in this town. Head out of the 
+town.
+
+Head in a southeast direction until you see a cave. Head into the cave 
+and prepare to get some Cleansing Water.
+
+************************
+**Cleansing Water Cave**
+************************
+Items: 2 Herb, Nice Hat, F. Stone, T. Drop, Bronze Hat, Apple   
+Level: 14
+This dungeon is not at all hard to navigate through. The monsters are 
+pretty easy and the dungeon is short. Just get every treasure chest, 
+because some of them are really useful. At the bottom go to bottom of 
+the stairs into the water and press A and the jar will fill up with 
+water and you will teleport back to Romero.
+
+***************** 
+**Chief's House**
+***************** 
+Items: Antidote, 900 GP, Herb, Cure, Tablet
+The Chief will talk about Agua and how you need the tablet in order to 
+enter. Take all the treasure boxes especially the tablet. If you want 
+you can go back to the cave and fill up the water jar, because it is an 
+automatic healing item. It will heal full HP and MP. You can refill any 
+time, but if you don't want to then head west of Romero into a huge 
+floating tower. That is Agua. Make sure you buy Bo a chain mail in this 
+town.
+
+******** 
+**Agua**
+********
+Items: Life2, Acorn, Apple, 2 Herb, Sun Hat, Iron Shield, Theif CL, 
+Acorn, Hairband, Bracelelet,      
+Level: 14
+Ryu will read the inscription on the tablet and a huge floating tower 
+will come down. Enter it. You will not be able to get a lot of treasure 
+in this tower so don't worry about it. You will have to come back later 
+after you have required some more characters. In the second floor head 
+down the platform on the first one. Then head to the one on the bottom 
+right and get the iron shield. Repeat, but this time head for the 
+bottom left. Then head down and go on the platform. Head up the stairs. 
+One the other floors just board the platforms etc, until you reach a 
+room that has like a shining pillar in the middle. Get ready for a boss 
+fight. Go up to it and touch it.
+ 
+******** 
+**Wisp**
+********
+The Wisp is a pretty hard boss. Start the fight off by casting Fort on 
+everyone starting with Bo. Then have Bo use his Fry spell have Nina 
+cast attack-up on Ryu and then have Ryu attack. After that is done Nina 
+should use the E. Key, have Bo use Fry and have Ryu attack. Wisp has no 
+second wind so he will fall after the first try.
+EXP: 1200
+Gold: 300
+
+After you are done start heading down the tower once more. It will be 
+easier going down then going up. After you are done head back to the 
+town of Tantar. From Tuntar follow the path heading north until you see 
+a huge robot. Go in the robot.
+
+************** 
+**Huge Robot**
+**************
+Items: Herb, Bronze Hat, Acorn, Life2, Marble1, 
+Level: 15 
+Just head up the flight of stairs and get the treasure chests. Soon you 
+will see a General and 2 Lancers. Talk to them to initiate a boss 
+fight. 
+
+********************* 
+**2 Lancers/General**
+*********************
+This battle is not too hard. Just have Ryu use the Rang to hit all 3 of 
+them. Have Nina use the E. Key and have Bo Fry one of the lancers then 
+Fry the General from then on. They should fall in 3-4 turns max. This 
+battle also gives a nice number of Exp and Gold.
+EXP: 1873
+Gold: 650 
+
+Talk to the heart shaped object and the Giant will turn on. Head to the 
+blue circle on the top left of the heart and step on it. Ignore the 
+blue circle on top of it or else you will be taken back to the 
+beginning. Follow the pattern of the blue circles and you will soon be 
+taken to a control room. It will look like the block when you got the 
+E. Key. Activate it and watch the little cinema scene. 
+
+************************** 
+**Chief's House (Tantar)**
+************************** 
+Items: Herb, Key
+Go to the chief's house in Tantar and talk to him. He will move his 
+chari and tell you that the Ring is in a cave upstream and that the key 
+is below. Get the key and head for the cave that is next to the Giant 
+Robot.
+
+******************** 
+**Cave of the Ring**
+******************** 
+Items: W. Ptn, Life, Life2, 2000 GP, Herb, Acorn, Sky Shield, Ring   
+Level: 15
+The first cave/dungeon is a short cave and there are no monsters in it. 
+Just get the W. Ptn and head out for the other cave. If you talk to the 
+door it will open up with your key. Head down the flight of stairs. 
+This cave has easy monsters, so don't worry about dying. It is like a 
+maze, however, and you should be able to figure it out easily. After 
+you get the ring I suggest you equip it on Ryu. It will upper his 
+attack by 10. Step on the blue circle once you are done and you will go 
+back to the gate. Return to Tantar. 
+
+Go in the Chief's House and the wedding ceremony will start. After they 
+kiss and blah, blah, blah then leave the town. Someone stole the Robot 
+during the wedding ceremony. It will destroy Tuntar, but it will refuse 
+to destroy Tantar. 
+
+***************************** 
+**Giant Stone Robot (again)**
+*****************************
+Level: 15
+The monsters in here are harder. The next boss fight will be on the 
+hardest you will fight. Just navigate your way through like you did 
+last time and get ready for a tough boss fight.
+
+*********** 
+**Gremlin**
+***********
+This boss is pretty hard. Start by casting Fort on everyone starting 
+with Bo, then Nina, then Ryu. Have Bo use Fry during this process. The 
+hero should use the E. Key. After Nina is done using Fort then have her 
+cast Attack Up on Ryu. Then use Fry with Bo, attack with Hero, and have 
+Nina either use the E. Key or heal. When Bo runs out of MP then use an 
+acorn to bring it back up. If you use this process, you should be fine. 
+Gremlin has a 1 hit attack and a all party hit attack. If you just 
+can't seem to beat him then I suggest you level up to at least level 15 
+before you try to beat him. His second wind is very nasty. He hits all 
+party members for major HP and he has a bunch of life. This battle is 
+hard so remember if you just can't seem to beat him then level up.
+EXP: 1400 
+Gold: 600
+
+After that really tough battle you will see a scene where the Giant 
+Robot kills himself. Head south to a small shrine right below the 
+Volcano. Head in and get ready to get the first out of Ryu's Dragon 
+powers. 
+
+******************** 
+**#1 Dragon Shrine**
+******************** 
+Items: Melon
+Level: 16
+Only Ryu will be able to enter. First heal by the pool, then get the 
+Melon. Then get ready to fight a 1 on 1 boss fight and if you win you 
+will be able to use mighty dragon moves.
+
+********* 
+**Talon**
+********* 
+In this battle you should use the E. Key, because that will do more 
+then Ryu can do regularly. Since the E. Key's damage doesn't matter 
+where you are, position Ryu in the back row. This way he can take 
+minimum damage while dealing decent damage. Start the battle and start 
+to use the E. Key. Heal with herbs if necessary and this battle should 
+not be too hard. Talon has no second attack so once you beat him its 
+over. You will get dragon powers after this battle.
+EXP: 400 
+Gold: 190
+
+After you are done head out of the shrine and continue south. With Bo 
+head into the cave. 
+
+***************** 
+**Cave to Auria**
+*****************
+Items: None 
+Level: 16
+This cave is short and soon it will be over. After you leave the cave, 
+head into the town that is by the sea.
+
+********* 
+**Auria**
+*********
+Items: Prison Cl, S. Ptn, Life2, Life, Cure, W. Ant, V. Ptn, Life, 4000 
+GP, Marble1, L. Ptn, Marble3, Cure, Smart RG, Acorn, Life, Antidote, 
+Cure, G. Tiara,    
+Level: 16
+New Weapons/Armor: Yes
+Right when you enter the town you will be arrested for absolutely no 
+reason. You will end up in a prison cell with a guy sleeping in a bed. 
+If you talk to him he will open the door for you. Search the water 
+bucket for a Prison Cl. Then leave the jail cell. Watch out for the 
+guards, but make your way through the town avoiding the guards. Make 
+sure you buy new weapons and armor at the weapon shop. Stock up on 
+herbs if you need it. In one of the houses an old man will ask to talk 
+to Nina. Switch the party so she is on top and talk to the old man. Say 
+yes when he says fix his back and he will give u 20,000 free gold after 
+your done. That's a lot of gold. 
+
+After you are done looting the houses, head to the dock and talk to the 
+captain. He will tell you that Ross owns the ship. Head to top-most 
+house and talk to him. Before you talk to him loot his treasure. (And 
+we call ourselves heroes... so ironic);) Talk to Ross and he will tell 
+you help him and he will lend you his ship. Ok before we continue with 
+the story we need a Gold Bar. The Gold Bar is very, very expensive. It 
+is 65,000 GP. In order to buy it at Auria you might have to do several 
+things to amass such a huge amount of gold. First buy a vitamin from 
+the item shop and go upstairs and give it to the hiccupping man. He 
+will give u 5,000 GP. In one of the houses an old man will ask for a 
+massage. This will give u another 20,000 GP. Then finally you can save 
+a boy from the faeries for another 20,000 GP. First talk to the mother 
+then go to the faerie area. (It is in the woods right below the Dragon 
+Shrine). Talk to the boy running around in circles. Return to Auria and 
+talk to the mother she will tell you save him. Then talk to the boy. 
+Not too hard. Sell the G. Tiara in Ross's house for another 13,000 GP. 
+You should be set by now. Now head east to another cave.
+
+***************** 
+**Cave to Bleak**
+*****************
+Items: Cure, Shell Hat 
+Level: 16
+Don't worry about getting the treasure and just try to get yourself 
+out. It is not too hard.
+
+********* 
+**Bleak**
+********* 
+Items: 4 Herbs, Life, W. Ant
+Level: 19
+New Weapons/Armor: Yes
+You can get the treasure and talk to the chief in the top house and he 
+will give you an icicle. Don't sleep in the inn unless you have a pouch 
+because the innkeeper will steal money from you. This is a great place 
+to level up. Go outside and fight the Gold Slimes for major experience 
+and gold. Get up to at least level 19 preferably 20.
+
+Head to the cave south of the Bleak and enter it. This cave is so short 
+and has no treasure in it so I am not going to make a section for it. 
+Anyway head out and you will use the icicle to head out into a desert. 
+Head into a town called Arad.
+
+******** 
+**Arad**
+********  
+Items: Fife
+Level: 20
+New Weapons/Armor: No
+Just rest at the inn for free then save your game. Then head up to the 
+chief and he will tell you to destroy the sandworm and in return you 
+will get the Fife. Agree with his terms and the game will turn to 
+night. Head out and get ready to fight the sandworm.
+
+************ 
+**Sandworm**
+************
+Ok first turn. Have Bo use Fry spell and have Nina start casting Fort 
+on herself then Bo then Ryu. If you are level 20 like I said you should 
+be then this boss fight is a joke. Have Ryu turn into a Thunder Dragon. 
+Second turn have Bo use Fry have Nina cast Fort and have Ryu attack. 
+When Nina cast Fort on everyone have her use the E. Key or heal and use 
+items. She should also cast Attack up on Bo. There is no need to cast 
+this one Ryu, because it does not increase his attack. This boss fight 
+should be over real quick.
+EXP: 1200 
+Gold: 1200
+
+Heal at the inn and head south to a weird looking pyramid. Use the fife 
+on the square and head on in. 
+
+********* 
+**Krypt**
+********* 
+Items: 2 Skull Hats, 3 Herbs, Headgear, Cure, 2 Life, Icy Hat, 
+Antidote, Dream RG, Iron Shield, Dagger, Hunt Cl, Book 
+Level: 20
+If you come up on any treasure chests beat them, because they give real 
+nice EXP. You can fall down many places so watch out. Make your way 
+southeast using the corner so you don't fall down. Then head down the 
+stairs. Don't pick up the chest because the person in front will die. 
+There is a B. Rang in the Rock, but you can't break it yet. You will be 
+able to later. Head up to the weird eye thing and talk to it to start 
+another boss fight. 
+
+*********** 
+**Eye Spy**
+*********** 
+Start out like a usual boss fight. Use Thunder Dragon with Ryu and have 
+Bo use Fry. Nina should cast Fort on herself then Bo then Ryu. Then 
+have her use attack up on Bo and then either heal or use the E. Key. 
+This boss fight is not very hard at all. Just use this strategy and it 
+should be easy. You will notice that as the boss fight drags on the 
+more you damage the Eye Spy the eyes start to disappear. Once his HP 
+starts to get low he will use T. Bolt. That will hit all party members 
+for 25 damage. If you are not at least level 20 then you will have a 
+hard time. 
+EXP: 2800
+Gold: 2800
+
+Head out of the Krypt using Karn in front of your party to pick all the 
+locks. Head out and go to Bleak. Upgrade your equipment if you have to 
+and then head for Winlan.
+
+****************** 
+**Winlan (again)**
+****************** 
+Head for the treasure chests in the lower part of the castle and using 
+Karn get all the treasure. Equip your new goodies head out and go to 
+Romero. You will soon learn why.
+
+******** 
+**Agua**
+******** 
+Items: Life Armor, Icy DR, Flame Shield
+Level: 22
+The reason we are coming back is, because there are very, very powerful 
+armor/weapon here and we want them. They will greatly assist in us in 
+the future battles. I suggest going up and getting all the treasure. 
+Have Karn in front and it should be very easy. Search the dragon 
+statues to get the Life AR and other powerful items. With all these 
+items Ryu will not easily now... Kind of unfair. 
+
+Ok this part is optional, but you are going to need another Gold Bar so 
+lets go get one. Go to the Cave leading to Bleak and pick all the locks 
+with Karn and get a Gold Bar. This way you won't have to get 65,000 
+gold all over again. Its optional, but hey I would do this. After we 
+are done head to Bleak and rest up and get ready. Head for the tower 
+that is west of Bleak and head in.
+
+*********************
+**Tower of Darkness**
+*********************
+Items: B Stone, Life, Life2, Herb, Cure, Horn Hat, Turban, 4000 GP  
+Level: 22
+Navigate your way through this tower and it shouldn't be too hard. 
+Choppers might cause some problem, but they will target Ryu and if he 
+has the Life Armor then it should not be a problem. Get all the items 
+and head for the to and you will see a pillar. Talk to the Pillar to 
+activate a boss fight.
+
+********* 
+**Cloud**
+********* 
+Cloud is an all-spell enemy using boss. He will only use spells and his 
+most damaging one is the 3.5 spell which is what the E. Key does, but a 
+bit stronger. Have Nina cast Attack up on Karn and Bo, but don't do on 
+Ryu. Then have her either heal or attack. Keep your HP up and you 
+should be fine. Have Karn attack regularly, have Bo attack or use Fry. 
+Ryu should turn into a Thunder Dragon and attack. Cloud has no second 
+wind so that's a relief.
+EXP: 4800  
+Gold: 1200
+
+Search the pillar for a Dark Key and then head down. Talk to the old 
+man and he will give you a mirror. Head out and go to Bleak and heal 
+up. After this head to Auria and its time to help the girl. We had to 
+do all that crap to save some girl... how ridiculous.
+
+********* 
+**Auria**
+********* 
+Items: Dart, 5 Herb, B Stone, Metal Shield, F Stone, Light Key
+Level: 23
+Head to Ross's House and go save her daughter. Have Karn pick all the 
+locks and talk to her. You will use the mirror and his dead wife will 
+show up and talk to him. Bad translation... peace omg... squaresoft can 
+do better then this. Anyway go talk to the daughter again. She will ask 
+you to help her so say yes. Head to the top and get the Light Key. Head 
+for the harbor and talk to the stupid General for another boss fight.
+
+*********** 
+**General**
+*********** 
+Have Ryu turn into a Thunder Dragon. Then kill the Archer by using Bo's 
+Fry spell and have Karn attack the Archer. Nina should be casting Fort 
+on everyone then Attack up on Karn and Bo. After that she should just 
+heal. Casting Fort on Ryu will have no effect so don't. Then just heal 
+and attack and this battle should end pretty fast.
+EXP: 4370 
+Gold: 2835
+
+After you defeat them they will destroy the ship. You should have a 
+Gold Bar by now, so trade Gobi the Gold Bar for the Gun Powder. Now 
+head for the cave that you came through to even get to Auria. There go 
+to the section where there are rocks and blast it. Start walking down 
+the path and you will fight some Spearmen and Archers but they are not 
+too much trouble to beat. There will be a boss fight soon, just to let 
+you know. 
+
+********* 
+**Squid**
+********* 
+Start the boss fight like any other. Have Nina cast Fort on everyone 
+but Ryu. Then have Ryu turn into a Thunder Dragon. Bo should use Fry 
+and Karn should attack. Nina should then cast attack up on Bo and Karn 
+and then heal or attack. This boss fight should not be too hard at all 
+if you are a decent level. 
+EXP: 7804 
+Gold: 5463
+
+Get all the treasure then head back to Auria and talk to the captain. 
+Then set sail, but sure enough get ready for another boss fight. First 
+however you will fight 2 archers and 1 lancer. Get rid of them quickly 
+and then you will have to fight the General.
+
+******** 
+**Octo**
+********
+Start this boss fight like the last time. Nina should cast Fort, and 
+Ryu should turn into a Thunder Dragon. Bo should Fry and have Karn 
+attack. Have Bo keep his AP up and have Nina heal after she casts Fort. 
+It is another pretty easy boss fight.
+EXP: 7218 
+Gold: 1804
+
+You will end up on a little island and Gobi will tell you that you need 
+gills. He says he will go down and get the gills himself after taking 
+some money... that criminal.
+
+********* 
+**Prima**
+********* 
+Items: Tide Hat
+Level: 23
+New Weapons/Armor: Yes
+Talk to the guild master in Prima and he will tell you that there are 
+no gills in Prima and to go to Gant. Update Gobi's armor and weapons 
+and head south and go up to land and head north to a town. 
+
+******** 
+**Gant**
+********
+Items: HrGlas, A.Potion, L.Potion, Goods
+Level: 15 (Gobi)
+New Weapons/Armor: Yes
+Go up to the house in the way north and talk to the person in there to 
+get Goods to deliver to Prima. Nothing much else to do, but maybe 
+update your weapons and getting all the items. After you are done 
+getting all the items and stuff, head outside and go back to Prima.
+
+********* 
+**Prima**
+*********
+Give the goods to the Guild Master and he will give you the gills in 
+return for his appreciation. Then you will hear explosions coming from 
+above the town. Go upstairs and you will see the "Grim Reaper" standing 
+over a Bull-like creature. Gobi will then say that he will get heroes 
+that can defeat the creature. Head out and go to the island where the 
+others are stuck. Then head back to Prima. Head into the inn and go 
+upstairs if you want to start the boss fight. Before you engage the 
+boss fight, you should upgrade your equipment and maybe get a few 
+levels outside. Once you think you are ready go up and start the boss 
+fight.
+
+********** 
+**Morteo**
+**********
+I suggest having Ryu, Nina, Bo and Gobi. First cast Fort on everybody 
+but Ryu. Then have Nina cast attack up on Bo and Gobi. Ryu should turn 
+into the flame dragon, for the fact that Mortea is an undead boss and 
+will be weaker against fire attacks. Have Ryu attack normally, Nina 
+attack or heal when necessary. Bo should use Fry and attack when he 
+runs out of AP. Gobi should use his magic and after his AP runs out, he 
+should attack. This boss fight isn't too hard at all.
+EXP: 3850
+Gold: 3300
+
+Ox will wake up after you defeat Morteo and decide to join your party. 
+He will explain his situation to your party and they decide to help him 
+out. You can now reach several places that you were not able to go 
+before. If you think back to some places where there were rocks then 
+you should go back to and break the rocks with Ox and get the treasure. 
+In the next update I will write all the things that you should get with 
+Ox in your group.
+
+Now is the time to level up. Head outside of Prima and defeat the 
+enemies here to gain lots of experience. I suggest getting everybody to 
+at least level 24 by now. The more levels you get, it will get much 
+easier later on. 
+
+This is the required part of the game. You must head back to the Krypt 
+where you found Karn before. There break the rock containing the B. 
+Rang and then head back out and go to Prima. After you get the B. Rang 
+head back to Prima and prepare to enter the fortress. You must head 
+left from Prima and head south to a pretty big castle.
+
+************ 
+**Fortress**
+************ 
+Items: 2 Herb, Giant HR, Echo HaT, Metal Shield, Life 
+Level: 25
+This place is not confusing. Have Ox in the front so he can break down 
+walls or rocks to make your way easier. The monsters in here give 
+pretty good experience and none are hard. Just keep heading the way you 
+are going and soon you will have to face a boss fight.
+
+******** 
+**Toad**
+********
+Right when this battle starts, have Nina cast FortX if she is high 
+enough level to get it, or else just cast Fort on everyone but Ryu. 
+Have Ryu turn into a Thunder Dragon and regularly attack. Ox should 
+just attack regularly and Nina after casting Attack up on Karn and Ox 
+should heal or attack. The Toad is really fast so make sure that you 
+heal when they lost about half of your party member's life. This battle 
+is not too hard, just make sure to heal. 
+EXP: 6000 
+Gold: 1500
+
+They will talk about how some prisoners were taken to some fortress. 
+You have to talk to an old man living near there and he will give you 
+some advice. Warp back to Gant and head along the shores to your right 
+until you see a hut. Enter in and the old man will notice you have the 
+B. Rang and there is a person in Gant who can fix it. Talk to the guy 
+in the house way in the back and he will fix the B. Rang for you. Head 
+back to the old man and he will give you advice. Make sure to equip the 
+B. Rang on Ryu. The old man will talk about some Grim Fowl who is 
+usually calm unless its eggs are taken. He tells you to use that 
+strategy as a weapon. Anyway head back to the Fortress and head out and 
+go straight north. 
+
+You will enter a group of trees and you will see birds everywhere. If 
+you walk near the middle you will see a purple dotted egg. Once you 
+touch it a boss fight will occur so I suggest you heal before engaging 
+the battle.
+
+************* 
+**Grim Fowl**
+************* 
+Use Fort on everyone or FortX if you are high enough level. Then have 
+Nina cast attack up on Ox and Karn. Ryu should turn into a Snow Dragon, 
+because the bird is weak against ice attacks. Have Karn and Ox attack 
+regularly and same with Ryu. Nina should attack or heal when necessary. 
+This battle can be a bit tough, but it is not the hardest boss fight in 
+the game.
+EXP: 5053
+Gold: 5775
+
+You will then take the egg and the whole flock of Grim Fowls will 
+follow you. Head north with the egg and make sure you don't move too 
+fast or else the idiotic birds will not be able to keep up. You will 
+throw the egg in the castle and that will allow you to enter it. You 
+will see a whole lot of mayhem ;).
+
+**************** 
+**Nabal Castle**
+****************
+Items: Skull RG, Life2
+Level: 25
+Make sure to get the items and just navigate yourself through this 
+small castle. Head downstairs, then to the south west direction and you 
+will need to break down the wall with Ox. Enter and the General will 
+say something about how he doesn't have time to deal with us and sends 
+his little helpers to try and stop us. Get ready for another boss fight 
+and this fight is with the SlimeX.
+
+********** 
+**SlimeX**
+********** 
+God those things look like bobbing jellos. Anyway back to the point. 
+Start this out like any other boss fight. Have Nina use FortX and Karn 
+and Ox regularly attack. Then cast attack up on Karn and Ox and have 
+her heal and attack. Ryu should turn into a Flame Dragon and after you 
+defeat these slimes, they will enter their second wind. They will turn 
+into a huge slime that hits harder then the previous 3. Just use the 
+strategy above and the ugly slime should die pretty soon.
+EXP: 6496  
+Gold: 7218
+
+After the battle, you will save the prisoners, but before they die the 
+General's Helpers will inform you that Prima will be destroyed. The 
+ship will sail off and you will be transported back to Prima. The Guild 
+Owner will say that the party will need the wisdom of the Wisdon 
+Sorceress (catchy phrase). You will then have to warp to Arad and enter 
+the little town that keeps moving. 
+
+********** 
+**Wisdon**
+********** 
+Items: 2 Herb, 2 Pro Shield, 2 Life, Life2, Old SP, Silver BR, Rage HR, 
+Chain Mail, OldEgg
+Level: 26
+New Weapons/Armor: No
+I would save before going underneath to where the sorceress lies, 
+because there will be some pretty hard boss fights coming up. All the 
+buildings will be closed off except the dragon shrine. Find your way 
+through the dungeon getting all the items and when you reach a healing 
+spring, recover your hit points and engage the spirits to start a boss 
+fight. When you enter the room where you see a sleeping mermaid like 
+woman talk to the spirits in front of her and 3 boss fights will occur.
+
+********
+**Wisp**
+********
+Remember this guy from way back. Well he is back and you have to fight 
+him. He will be the same as the time when you fought him in Agua. You 
+should easily dispose of him without using any magic or spells. Just 
+regularly attack him and he will die really fast.
+EXP: 1560
+Gold: 990
+
+********* 
+**Cloud**
+*********
+This boss is a bit harder then the previous one. I would turn Thunder 
+Dragon here and cast attack up on Karn and Ox. Fort is not necessary, 
+because Cloud will not use physical attacks. Get rid of this boss 
+quickly or else he will use his devastating spells to destroy your 
+party. You fought him before and the only difference is that he has 
+more HP. This boss fight shouldn't be too hard at all.
+EXP: 3239 
+Gold: 2306 
+ 
+******** 
+**Myst** 
+********
+Myst is a lot like Cloud. Myst will not use physical attacks so don't 
+worry about casting fort. Instead first cast attack up on Karn and Ox 
+then cast Shield on the whole party. Ryu should turn into the Thunder 
+Dragon and Nina should heal after casting all her spells. This boss 
+fight is the hardest of the three and you should be careful because 
+this guy has some deadly spells at his disposal.
+EXP: 4812 
+Gold: 4331
+
+After Bleu wakes up the ghosts will go away and she will give you an 
+oldegg and tells you to put the egg in a volcano so it will hatch. She 
+will then scold you for being rude and waking her up. She will 
+immediately go back to sleep after giving you the egg and you must 
+continue on your way back to Prima and head north from Prima to a cave 
+where the volcano lies.
+
+***************** 
+**Volcano Ocean**
+***************** 
+Items: Herb, M. Drop, Sharp Bow, 5000 GP, Power DR
+Level: 27
+Start to navigate your way through this little cave. It is very 
+difficult to navigate. Just go in a northerly direction. Take the 
+stairs north and soon you will reach the volcano. Go to the middle and 
+down the ledge and press A. Ryu will drop the Egg into the volcano and 
+it will hatch. 
+
+After you put in the egg, you will be instantly transported to Bleu and 
+she will join your party for good. This is great, Bleu has great, great 
+offensive magic. Immediately take out Ox and put her in the back row. 
+She is awesome. She will be the only offensive magic sorceress in your 
+whole party for the rest of the game. I highly suggest training her as 
+from now the walkthrough will include her.
+
+The Dark Dragons will make their move first and start to invade. You 
+get on a huge fish and start to make your way to counter their attack. 
+You will surface and be surrounded by ships, but Bleu will summon the 
+huge bug from the egg and it will begin to destroy half of the ships. 
+The enemy will retreat and you will go back into the water and get off 
+the big fish. Head north and talk to the General to start another boss 
+fight.
+
+*********** 
+**Pincher**
+*********** 
+This boss is pretty tough. First have Nina use FortX then cast Shield 
+on everyone. She should then cast attack up on Karn and then heal if 
+necessary. Bleu should use Fry and Ryu should turn into the Thunder 
+Dragon and begin to attack. Using this strategy, this boss should fall 
+pretty quickly. 
+EXP: 6243 
+Gold: 6243
+
+The General will threaten to take everyone with him. He will then self-
+destruct and that will end the threat so far. After that battle, there 
+will be a little cinema scene where Jade and Zog are discussing their 
+plan. Jade will then send his four captains to destroy you. The guild 
+owner of Prima will congratulate you. Head back into Prima and talk to 
+him to receive the Sphere. This is required to continue the game. 
+Outside, put Gobi in front of your party and press A. You will then 
+turn into a big fish. Head northwest and go through the black space. 
+
+Ok its time to get some more Dragon spells for Ryu, but it's a 
+complicated process. This is what you have to do. First with Gobi, swim 
+near an island in the middle and enter it. Head into the castle and 
+upgrade your weapons/armor if you need it. Go upstairs and try to get 
+the treasure, but the statues will throw you down. (Try to get the 
+treasure at the left) Once you are downstairs move the box near the bed 
+and search the spot. You will get a Rod5. Exit out of the Tunlan and 
+warp to Romero. From there have Shin/Bo in front of your party and head 
+in a west direction until you see a well. Make sure you have some 
+fishing bait. Equip the Rod5 and the fishing bait to Ryu and fish out 
+the Dragon Sword.
+
+From here you must go back to the Fortress. From the Fortress go left 
+and not north from there. You will soon reach a Dragon Shrine. Get 
+ready for another 1 on 1 boss fight and be ready for some brand new 
+powerful Dragon Spells. Heal at the Spring and talk to the green dragon 
+thingey and start the fight.
+
+******** 
+**Bain**
+******** 
+Start this fight by turning into a Thunder Dragon and then just beat 
+the crap out of the blue bird. Its not hard at all if you are a decent 
+level. You will learn 4 new spanking nice Dragon spells
+EXP: 1020
+Gold: 640
+
+Warp back to Tunlan and head back into the ocean. Turn into the big 
+fish and head north west until you see a beach then press A to revert 
+back. You will need to head to Gust next and if you went to the 
+northwest direction and came out, you should see a dragon sign. This 
+means that you are on the right track. Head northeast to a town. 
+
+******** 
+**Gust**
+******** 
+Items: Sash
+Level: 27
+New Weapons/Armor: Yes
+Once you enter this town, you will see people start running around 
+stupidly. Upgrade your equipment and in one of the houses you can fall 
+down and get one of Karn's Transformation spells. Get ready for some 
+tough battles up ahead, so level around the area if you have to, or 
+after you are done head north. Debo is the transformation you will 
+learn when you talk to the old man, but it's also his worst. It only 
+works underwater and you will rarely now ever go back there. Anyways 
+head north and go in the door.
+
+*************** 
+**Fortress #2**
+***************
+Items: 2 Herb, L. Potion, Cure2, Rod4, M. Cura
+Level: 27
+If you try to get the treasure chests, you have to fight a huge beast. 
+If you are high levels (27+) then I suggest you just regularly attack. 
+They give lots of experience and gold, but they deal pretty decent 
+damage. If you are a pretty low level, then treat this battle like a 
+boss fight. Other then that I would fight all of it. Once you head 
+upstairs, a weird looking monk guy will come and try out his new 
+"formula". Your whole party will turn miniature size and you have to 
+find a hole somewhere in the wall to proceed.  
+ 
+Once you continue on you will see a little colony of mice. You can rest 
+at the "mice" inn if you want. Talk to all the mice and then talk to 
+the one guarding the doorway and he will move. Get ready to fight a 
+whole lot of roaches. Disgusting creatures. **Shakes Head** No offense 
+to all you roach lovers out there ;).
+
+**************
+**3 K. Roach**
+**************
+This is a pretty easy boss fight. The roaches are very weak against 
+physical attacks. If you got the Dragon Sword like you should by now, 
+then just regularly attack, because you will do more damage that way. 
+If Karn is morphed to Shin, then he will do major damage. Have Bleu use 
+her strongest magic and have Nina first cast FortX then attack up on 
+everyone. Then just heal and attack whenever necessary. This fight 
+should be over quickly.
+EXP: 1380 
+Gold: 600
+
+Head back to the mice village and the Chief in return for his gratitude 
+will give you the antidote to turn you back to normal size. (I wonder 
+how he got it)...  Anyway Ryu will go outside and use the potion to 
+turn back. Hurry down the stairs into a room similar to that in Agua. 
+The monsters in here give tons of EXP. Great place to level up if you 
+need it. Get ready for a really hard boss fight. 
+
+********* 
+**RugaX**
+********* 
+Start this boss fight off with Nina casting FortX on everyone. Have Ryu 
+turn into the Bolt Dragon and have Shin (aka Karn) attack. Have Bleu 
+use her strongest magic. Nina should then cast attack up on Shin and 
+then heal and attack as needed. Keep this strategy up and this boss 
+should fall soon. She packs a decent punch so be very careful and heal 
+quickly. Make sure you are a pretty high level so you will not have too 
+much trouble. This monster has no second wind.
+EXP: 4126 
+Gold: 3121
+
+Cort will inform you that his flowers will destroy everything. RugaX 
+was really a human and she is in critical condition. Bleu says she 
+can't heal her, unless she has some oil. Next quest is the quest for 
+the oil. (Yea I know boring title). Bleu rudely pushes you out, I might 
+add... (Rude woman)... Anyway head back into Gust heal at the inn and 
+prepare for the weirdest boss fight you have encountered so far. You 
+have to kill a giant fly. Head into the cave at northwest corner. 
+
+************* 
+**Giant Fly**
+************* 
+This fly is a big trouble. It is very fast and will probably be the 
+first to strike. Have Ryu turn into a Bolt Dragon. Shin should attack 
+and so should Ox. Nina should cast FortX and attack up on Shin and Ox 
+then after that just heal everyone when needed. This battle might be 
+hard, but if you are a decent level then it is manageable. 
+EXP: 7284 
+Gold: 8325
+
+Pick up the Giant Fly and heal at the inn and head back into the water. 
+Have Gobi in the front turn into a Big Fish and proceed in a south-east 
+direction. You will see something like this then you know you are 
+there.
+-	  --------
+-	  -
+-	  -
+ -      -
+-       -
+-        -
+-         - 
+-         -
+Yea, yea I Know he drawing sucks, but it's the best I could do ;). 
+Anyway get back on land and go into the frog cave. After you exchange 
+the Giant Fly for the Oil, warp back to Gust and give the Oil to Bleu. 
+Heal at the inn and get ready to fight some very nasty flowers. Head 
+back north to where you saw the flowers last time. Make sure to 
+transform Karn into Shin.
+
+*********** 
+**FlowerX**
+*********** 
+This boss is not very hard. Just have Nina cast FortX on everyone. Then 
+have Ryu turn into the Bolt Dragon, Shin should attack and so should 
+Ox. Nina should then cast attack up on Shin and Ox and then heal and 
+attack whenever she is necessary. This fight is easy enough, and if you 
+are having trouble then I suggest leveling up a bit.
+EXP: 3850 
+Gold: 3609
+
+Head back to Gust and go into the house where Bleu was last time. Make 
+sure to refuse into Shin before you engage RugaX for the second time. 
+Once you enter, you will see RugaX running rampage around the house and 
+so you must destroy it. 
+
+********* 
+**RugaX**
+********* 
+Start this boss fight off with Nina casting FortX on everyone. Have Ryu 
+turn into the Bolt Dragon and have Shin (aka Karn) attack. Have Bleu 
+use her strongest magic. Nina should then cast attack up on Shin and 
+then heal and attack as needed. Keep this strategy up and this boss 
+should fall soon. She packs a decent punch so be very careful and heal 
+quickly. Make sure you are a pretty high level so you will not have too 
+much trouble. This monster has no second wind.
+EXP: 4162 
+Gold: 3121
+
+In return for his appreciation, your former enemy RugaX (aka Nicholie) 
+will fix the bridge. You will be healed automatically. Make Karn into 
+Shin again and then head to bridge. It is northwest of Gust and be 
+prepared for the hardest boss fight you had a in a long time. That last 
+hardest one was when you had to fight Gremlin. 
+
+************ 
+**Horntoad**
+************
+Start this fight like any other boss fight. Ryu should turn into a Bolt 
+Dragon, Shin should attack and Bleu should use her strongest magic. 
+Have Nina cast FortX and attack up on Shin. Then have her heal for most 
+of the battle, because you are going to need it. This boss is pretty 
+easy the first wind, but at his second wind, he will start to hit the 
+whole party, so watch out. If you are really getting beat up use the 
+Water Jar that you have saved up and you should come out the winner of 
+the battle. Make sure to always have a Water Jar full in case of 
+emergencies like this fight.
+EXP: 6800 
+Gold: 7000
+
+After this relatively easy boss fight head west from the bridge until 
+you see a mole sticking her head out of a hole and goes back in. Follow 
+her in to a mole town.
+
+********** 
+**Gramor**
+**********
+Items: Cowl 
+Level: 28
+New weapons/armor: No
+Nothing much to do in this town. Just head into one of the houses and 
+talk to the mole standing next to a mole on a bed and answer yes to her 
+question and you will receive a cowl. Its time to head back to Tunlan.
+
+********** 
+**Tunlan**
+**********
+Go up to the castle to talk to the princess and you will find out that 
+she wants to give a key to the Dark Dragons. You will need the Cowl and 
+the Maestro to talk to her. (The Maestro is in Gust under an old man's 
+bed.) Talk to the woman in green and she will tell you to talk to the 
+princess in the room above. Go up the stairs and talk to the woman 
+standing and she will tell you that she will not give you the Tm Key. 
+Head back downstairs and talk to the old woman. The old lady says 
+something about the marks on her back showing something. Follow her.
+
+Ok now go talk to the old lady again in front of the statues. She will 
+tell you the princess likes to swim at night. Head back up the stairs. 
+Now go back outside and use Ryu's spell to turn the day into night. 
+Head back into the castle. Go back to where the old lady. Talk to her 
+and head back up the stairs. Now on the left side of the wall in this 
+room there is a small crack in which you can squeeze through. Go left 
+and up and head into the palm trees. 
+
+The princess will have marks on her back. The colors are in this order. 
+Blue, red, and white from left to right. The guards will come and enjoy 
+the little brawl. I thought it was comical. This ends when Bleu uses 
+her spells... and the party ends up in bed. Go back up the stairs to 
+retrieve the bolster. Now return to Gramor.
+
+**********************
+**Mogu's Dream World**
+********************** 
+Talk to the sleeping mole to enter his dream using the bolster. You 
+will end up in a peculiar town. You can't buy weapons, but the only 
+thing you can do is rest at the inn and stock up on items. Once you 
+feel your ready head out and head north to a tower. I suggest you level 
+up at the tower, because the monsters there give great experience and 
+it will help greatly. Find your way across this maze until you get to 
+Mothro. You can not beat him so there is no point in fighting him. Just 
+talk to him and then head back out. You will find out that someone 
+found Mogu's courage. Head south west to a gas field. This is where 
+Mogu's courage lies.
+
+************* 
+**Gas Field**
+*************
+Items: Headgear, Life, Light Shield
+
+Just work your way through this gas field. It should be self 
+explanatory. Once you get in the cave you will find that Mogu's courage 
+is there. Talk to him and then everyone will join with the courage to 
+form one whole Mogu. Now you can beat Mothro. Head back to the inn to 
+heal and then head up to the tower once more.
+
+Work your way up each floor. It seems complicated but just use your 
+logic to figure it out. There are 3 floors and once you get to the last 
+one you should be able to find Mothro there. Once you see him get ready 
+for a boss fight. Talk to him and then a boss fight will ensue.
+
+********** 
+**Mothro**
+**********
+Mothro will have very little life to start. Do not let this confuse or 
+fool you. He is still very hard and there is enough hit points left in 
+him to give you trouble. Have Nina cast FortX and then have her heal. 
+Ryu should turn into a Bolt Dragon and have Shin attack normally. Have 
+Bleu use her strongest magic. Mothro has very high evade so he will 
+dodge most of your attacks. Just keep this up and he will fall. 
+
+Mogu will then wake up and then he decides to join your party. Mogu's 
+special ability is to dig. This is not a bad way to get some pretty 
+good items. The next section will cover what you can get.
+
+Head to Camlon and head along the road until you see a dragon in a 
+circle on the ground. This is a dig spot. Have Mogu dig and then you 
+will fall in a room. Have Karn in your party out in front and he will 
+learn his next transformation Doof. This will let you move dressers.
+
+In one of the houses in Bleak there is a place where there is a dresser 
+and 2 jars. Move the dresser and search the area to find a ClearCL. 
+This is a great armor for Nina or Bleu. Head north of that dresser and 
+move the dresser there and head down. There Karn will learn his last 
+transformation Puka. This is the best one in my opinion.
+
+Head to Auria and go north. When you see an emblem use Puka to move it 
+and head in to claim the Dark Bracelet.
+
+Go to Gust and head south and use Puka to move the emblem and get the 
+love bracelet. 
+
+Now finally head to Gramor and when you see some strange trees have 
+Mogu dig there and you will get a root. This is important later so keep 
+it and don't forget to do that.
+
+To the south of Gramor head into the cave and continue to the town of 
+Spring.
+
+********** 
+**Spring**
+********** 
+Items: Herb/Clog
+Level: 30's
+Nothing much to do here except to upgrade your armor and weapons and to 
+stock up on items. Once you are done head out and head southwest to the 
+Spyre tower. I suggest to get a few levels outside of Spring also. It 
+will help very soon.
+
+*************** 
+**Spyre Tower**
+***************
+Items: Cure2, Flame Armor, Shell, World Armor, A. Potion
+Level: 30's
+
+The beginning is like any dungeon. Just make your way upstairs and each 
+step you go up has a different little setting. There are clouds, grass 
+etc. Just make your way up and fight a few more battles to get your 
+levels up and when you reach the last pillar get ready to go through 
+another dream world... Search the pillar and Mote will appear and hurl 
+you into a dream world.
+
+********************** 
+**Second Dream World**
+**********************
+Items: Cure, L. Potion, Jade Bow, Trident, Cursed Hat, Smoke, Facemask
+Level: 30's
+
+Head north to a cave and make your way upstairs. It's not that 
+complicating in the first few floors. Just get all the items, because 
+they are worth it. Then keep going the right way and you will meet up 
+with Mote's conscience. Up ahead of that is the hardest part of the 
+game. Its not a boss fight, it's not a fight at all, it's the most 
+confusing maze. This game has very easy dungeons, but this maze is very 
+hard. I will give a step-be-step guide on how to pass it. This wills 
+probably the only place where I will give such detailed information.
+
+From the first switch, head to the left, and follow the path to the 
+next switch.  Now follow the path to the south, and you'll soon come to 
+another switch. From this switch head to the north, and you should come 
+upon the fourth switch. 
+Step on that switch, and after the room stops spinning follow the path 
+to the east, and take the first south, and then continue to the east, 
+and follow that path till it branches south again, and then head south 
+and you'll come to yet another switch. 
+Step on that switch and make the room spin again, then head to the 
+left. Keep going left and then you'll come to another switch. After the 
+room is done spinning, head to the left again. Keep going left until 
+you come to the second north. Keep going from here for the final 
+teleport. Go left for the last teleport.
+
+Take the middle staircase and in the lower right hand corner of the 
+room is where you will find a pit fall. Head up the stairs. On the 
+fourth floor there will be lots of purple tiles. Make sure that you 
+revert Karn if he is transformation and have him lead the party so you 
+can spot holes. Find the stairs and head up. Take the right and the 
+stairs way to the south to initiate another boss fight.
+
+******** 
+**Mote**
+********
+Do not do use any spells or moves until Mote's Conscience shows up or 
+else you will just be wasting your energy. Ok once his conscience shows 
+up use FortX with Nina. Have Bleu cast her strongest magic. Puka should 
+attack regularly. Ryu should use Bolt Dragon. Also use attack up on 
+Puka. Ok Mote is different from other bosses. If you hit him with a 
+physical attack then he will be resistant against physical and weak 
+against magic. Magic will affect him the same way as the physical 
+except he will gain a resistance to magic. So keep attacking and using 
+magic to change his order. With this strategy you really can't lose.
+EXP: 5400
+Gold: 6000
+
+Ok after this boss fight ends you will end up in the Spyre Tower. Head 
+back outside and go to Spring. It is now spring and not winter in the 
+town so you can continue the journey behind the waterfall. I also 
+suggest fishing for the dragon armor here as it will enable you to 
+receive the next Dragon ability.
+
+Head back into the waterfall and head into another cave. Don't worry 
+its short. Just head out of the cave and south of it to enter the next 
+town.
+
+********** 
+**Carmen**
+**********
+Items: RubyBR, White Antler
+Level: 30's
+This town has another weird problem. It seems that everyone is frozen 
+and turned into stone, but its not quite that bad. For everyone living 
+in that town time has stopped. Now it is your job to free the town of 
+their troubles. 
+
+Before we go into the next dungeon field, let's get some nice items for 
+some of your characters. Head north of the Tock tower and dig with Mogu 
+to pick up the Hero Bow. This is the strongest bow in the game for Bo. 
+Next head to a Dragon Emblem to pick up the Wind Bracelet. This is not  
+bad accessory at all. 
+
+************** 
+**Tock Tower**
+**************
+Items: Cure, Gold Tiara, Icy Armor, Life, Agile Hat, Wolfskin, Life2, 
+Guard Shield, Evil CN
+Level: 31+
+This tower has some strange arrows on tiles. These are basically 
+teleporting arrows. Each one will teleport you to a specific area. This 
+area is not too difficult to figure out so I suggest you try and figure 
+it out for yourself. I mean after all what is the point of playing a 
+game if you can't figure out a few things for yourself. The fireheads 
+in this cave gives lots of experience so feel free to level up. 
+
+Make your way up to the top of the tower. You will meet Cerl and then 
+she will show you the power of the Time Key. You will step into the 
+huge black circle and be headed to somewhere. You will end up with only 
+the Hero and this can be dangerous because the enemies can overpower 
+you. If you die you will just end up in Carmen. Anyway make your way to 
+Carmen. 
+
+You will meet Alan. He will talk about Cerl and blah blah. Head back up 
+the tower. I hope you know your way. Cerl will then kick you out once 
+more. A fight will occur but you can't beat her so don't bother trying. 
+Head back to Carmen by warping with Nina. Alan will talk about how its 
+all his fault and a fruit might help her remember. Have Ox hit the 
+fruit tree where you ended up the first time to receive the fruit. Head 
+to the south castle where you will confront Cerl once again. 
+
+Cerl will tell you to take the key and leave. That is when Goda 
+appears. You will then be transported to the Tock Tower once more. 
+There Nina will try to put in the key but something will go wrong like 
+always. Nina will then be pulled into the black hole. Your going to 
+miss her magic for a while. 
+ 
+You will end up outside of Tunlan. Have Ox punch the tree for a C. Nut 
+as you will need it later. Now head into Tunlan. Go into one of the 
+houses where you will see Nina in a different color outfit. Talk to her 
+and she won't know who you are. Talk to the old lady in the room and 
+she will talk about some famous doctor who can help her. Now head 
+outside and warp to Carmen. (Hint: Use Bleu)
+
+********** 
+**Carmen**
+**********
+Meet the new Carmen with the time restored. First head into the weapons 
+shop and buy the best equipment available as they will be the best you 
+will have for a while. Now head into the north east house and talk to 
+the doctor. He will tell you the ingredients you need. You should have 
+the C. Nut, Root and a W. Ant already. The rest are easier to get. Just 
+head south of the South Castle where Cerl and Alan was and you will 
+reach a broken bridge. Fish here for the poisoned fish. Make sure you 
+have some bait and a rod. If you need bait head to Auria to buy some.
+
+After you are done getting those items, head back to the doctor and he 
+will make the tonic for you. After you receive the tonic head back to 
+Tunlan and give it to Nina. She has some new abilities and she is a bit 
+older. She can now fly. To use it just have her in front of your party 
+and press A.
+
+Now is the time to do some final things before we fight the boss. Hope 
+your characters have high enough levels to take on the bad dark 
+dragons.
+
+First warp to Arad then have Nina fly way south of Arad to a place 
+where you can fish. Then you can get the Dragon helmet. It's to the 
+southwest and in a broken well. You shouldn't have too much trouble 
+finding it.
+
+The next item to get is the Dragon Shield. First warp to Gramor. Then 
+in a well in between some mountains fish to receive the shield. Now you 
+are ready to get one of the powerful dragon fusions. As you can see 
+these Dragon items are very powerful. Now head to Gust and go to the 
+castle in the middle of the lake. Now get ready to fight 1 on 1 with 
+the hero. 
+
+********* 
+**Avion**
+********* 
+Just turn into a Bolt Dragon and pummel him. Heal if you have to, but 
+by now you should be powerful enough to just finish him off. This is 
+not a real hard boss fight so don't take it too seriously. After you 
+beat this you get the all powerful Rudra Fusion. 
+EXP: 1400
+Gold: 1600
+
+Head to Romero to obtain the ultimate Fusion. Head to the Cleansing 
+Cave. Now head all the way to where you filled the jar last time. You 
+will find a room below the place where you could fill the jar if you 
+have all the dragon equipment. You will then meet the dragon and obtain 
+the ultimate spell Agni. It will basically fuse all your characters 
+into 1 super dragon and no matter what it will do 999 damage to all 
+your opponents. This should help you a lot in the future boss fights.
+
+Warp back to Romero and head a little north to see a demented looking 
+castle. Search the back of it to receive the Tri-Rang. It's the best 
+weapon available so far for Ryu. First go to Carmen and in the 
+northeast of the village there is a cloaked man. Talk to him and he 
+search where he was to receive the Pass. It's a key item so don't 
+forget to get it. Ok now head for Scande. It's south of Carmen.  
+
+********** 
+**Scande**
+**********
+Items: Power Hat, Icy CN, Marble 1, Glove, Cure
+Level: 31+
+From here you really can't do much except find the items. Just head 
+back out and go to Spring to get some needed climbing gear. In one of 
+the houses in Spring talk to one of the guys to get the broken parts to 
+climb the tower. Now head for Gant and have the guy in the north house 
+fix it for you. Now its time to head back to Scande to climb the tower 
+and face some of the elite bosses this game has to offer. (If the guy 
+in Spring doesn't give you the parts go back to Scande and talk to 
+everyone.)
+
+Ok now put the parts into the elevator and you can start going up. When 
+you reach the top you will meet the cloaked character again. He will 
+talk about the Dragon Heart. Now in order to get this powerful item we 
+must head to Tunlan. (This item will make any dragon's hp turn into 1. 
+I suggest not using it on Zog, but save it for Sara.)
+
+In a house in Tunlan a lady will play the Dragon Heart and Ryu will 
+feel disturbed. If you look at his hit points you will find out that 
+its 1. Save this for future bosses. Anyway leave Tunlan and head back 
+to Scande to face Zog. I suggest refilling your Water Jar also. You 
+might need it. Now when you head up the tower that cloaked figure will 
+be gone.
+
+Make your way through until you get to Zog. It may be complicating, but 
+hey you must have done this at least 12 times before. This should be 
+easy enough.
+
+******* 
+**Zog**
+*******
+You have 2 options here. You can either use the Dragon Heart or save it 
+for the next boss that's much better. If you chose option 2 then you 
+have to have the Hero turn into Rudra, have Puka attack and have Nina 
+cast her magic and Bleu use BoltX or you can just turn into Agni and 
+pound him. Your choice, and overall it's an easy fight.
+EXP: 7000 
+Gold: 7000
+
+You will meet Sara when you hit the floor. Remember her..., well don't 
+feel too happy, because she is a traitor and you will have to fight 
+her. Ryu will then give her the remaining Dragon Keys (idiot) and she 
+will laugh and run off. They leave for Agua and you are stuck in that 
+dungeon. However, the mole people help you out and you are safe for the 
+time being...
+  
+You will end up back in Scande. Rest up and stock up on the items you 
+need and then head to Romero and then to Agua. Now on Agua remember 
+where you got the Life Armor and all the good stuff earlier in the 
+game, well head back up there. That is where you will find the people 
+who stole our keys. Good luck navigating yourself through the tower. 
+
+********** 
+**Pagoda**
+********** 
+Items: Power Armor, Domino, Stone Hat, Trap Guard, Agile Armor, Flame 
+DR
+Level: 35+
+This tower is very hard to navigate through. Just do the best you can 
+until you reach Sara. Then you will have an easy or hard boss fight 
+considering whether you saved the Dragon Heart until now. 
+
+******** 
+**Sara**
+******** 
+Just use the Dragon Heart and then hit her to kill her or else if you 
+didn't save it just have the Hero turn into Agni with the rest of them 
+and outlast her. Save when needed otherwise just keep it on automatic. 
+This is not a really hard boss fight if you saved the Dragon Heart 
+though.
+EXP: 9999
+Gold: 9999
+
+After you defeat Sara continue on your way and don't fall for the trap 
+hole. Now the next place will have those buttons where the background 
+disappears and reappears etc. Just head south from the entrance and 
+continue your way. You should be getting of experience points from this 
+area. After you get to the platform just continue to head south from 
+it. Don't worry this will soon end. Ignore the second platform and 
+continue up the stairs. You will continue somewhere soon. Get ready to 
+go to the Obelisk. 
+
+Before you head for the Obelisk you need to retrieve some very 
+important items. You are almost done with the game congratulations. 
+Warp to Auria and head to house to the north that is disconnected from 
+the regular area. Talk to the old lady dressed in red there and she 
+will tell you that she is a weapon's collector. Now head to Gant and 
+head for the guy that gave you the B. Rang and enter his house to get 
+the list. 
+
+Take the list and now head back to her house. Go back to the old lady 
+and you will pick up the Wizit or something like that. Now head back to 
+the old man. He doesn't think it's a weapon and he wants to study it. 
+Now head back and forth until they give you the I. Claw. Now head for 
+Gramor and talk to the leader to figure out how to use it. 
+
+Mogu will learn how to use it. The Obelisk is near Scande so head 
+there. It's a huge flying fortress. Fly in there and enter the room 
+with Mogu in front. He will dig a hole straight down. Just navigate 
+your way through until you reach another boss fight. When you see a big 
+guy heal up and get ready for a boss fight. 
+
+******** 
+**Goda**
+******** 
+Just use Agni with the combined party and pummel him until its time to 
+heal then do so. Just keep doing this over again until he dies. It 
+should last around 15 rounds so make sure you can heal. This is not too 
+big of a boss fight.
+EXP: 6000 
+Gold: 6000
+
+Now head down the stairs and you will see 4 platforms. It doesn't 
+matter which one you choose as each will lead you to the same area. Now 
+in this area just work your way around until you meet Jade. He is tough 
+and the second to last boss you will face.
+
+******** 
+**Jade**
+******** 
+Jade is quite easy to beat because you have to just outlast him. Just 
+use Agni and like above start attacking then heal when necessary. Once 
+you get Agni the game gets quite a bit easy. 
+EXP: 8000
+Gold: 8000
+
+Now take the platform to where the Tyr is. When she asks if you came 
+for a wish say yes and she will heal you. Now talk to her again and say 
+no and then you will have to fight her. Just pummel her as she won't 
+attack you. You will get kicked out of battle and she will ask if they 
+would like to be friends. Say yes and Sara will come and warn you. Now 
+when you fight her use Agni. She will freak out and you get kicked out 
+of battle again. Now is the real fight.
+
+*************** 
+**Goddess Tyr**
+*************** 
+Use the same strategy as the one you used for Jade. She has a little 
+more experience. If you don't use Agni to kill her then you will get 
+the bad ending. It's easier to beat her with Agni anyway. Just keep 
+attacking and then when you need to heal revert and fuse once more. 
+This fight can last quite a while, but don't worry with Agni you will 
+win. Once you are done then you won. 
+ 
+CONGRATULATIONS YOU HAVE BEATEN BREATH OF FIRE. ENJOY THE ENDING.
+
+************** 
+***8. Items***
+**************
+Items play a big role in this game as it can mean the difference 
+between victory and defeat. This section will list all the items 
+available in the game and give stats of what the items will do.
+
+Name of Item		What it does
+
+Apple			Heals 60 Hit Points
+Antdt			Heals Poison status
+Antler			Heals Poison status
+Acorn			Recover 20 AP to one character
+A Ptn			Permanently raises agility
+B Stn			Cast Fry one turn
+C Nut			Heal 20 Hit Points
+Charm			Heals Curse status
+Cure			Heals all Hit Points on one character
+Cure2			Heals all Hit Points for entire party
+C Stn			Cast Frost one turn
+D Hrt			Makes all dragons drop their hit points to 1
+DkKiss			Cast Rub for one turn
+F Stn			Cast Flare one turn
+Herb			Heals 50 Hit Points
+HrGlas			Can turn night into day or day into night
+L Ptn			Permanently raises luck
+Life			Raises fallen character to 1 Hit Point
+Life2			Raises fallen character to all Hit Points
+Mackrl			Heals Poison status
+Melon			Heals all Hit Points on one character
+M Drop			Heals all Hit Points and heals any status effects
+Mrb1			Character hits for a slam one turn
+Mrb2			Same as above but works with Dragon attacks
+Mrb3			Avoid monsters for a short period of time
+Meat			Heals 70 Hit Points on all party members
+ProtnA			Increases attack during battle
+ProtnB			Greatly increases attack during battle
+P Fish			Poisoned fish used to make the tonic
+Srdine			Heals 50 Hit Points
+Sole			Heals 100 Hit Points
+Smoke			100% chance to run from battle
+S Ptn			Permanently raises strength
+Trout			Heals 150 Hit Points and Poison status
+T Drop			Heals Zombie status
+Vitamin			Heals status effects
+V Ptn			Permanently raises vigor
+W Ptn			Permanently raises wisdom
+W Ant			Recover 100 AP to one character
+WMeat			Heals all Hit Points to party
+
+Important Items
+Name			What it does
+
+E Key			Use in battle for 3.5 spell
+I Ore			Needed to make the saw
+Wtr Jr			Heals party for complete recovery during battle
+			Also used to get rid of the zombies in the town
+Remedy			One time use to heal the King in Windia
+Saw			Use this to enter the forest of despair
+Icicle			Used to cross the desert
+Key			Opens up the door in the Cave ring
+Kng Key			Used to operate the Giant stone robot
+Lt Key			Turn night into day
+Dk Key			Turn day into night
+Fife			Used to enter the Krypt
+Book			Karn uses to learn how to be a great thief
+GnPowder		Used to blow up rocks
+Gills			Enables breathing underwater
+OldEgg			Hatches a typhoon bug
+Sphere			Enables Gobi to transform into a fish underwater
+M Cura			Used to counter the tiny effect
+Oil			Heals Nicholie
+Cowl			Used to talk to the people of Tunlan
+Maestro			Used to understand the people of Tunlan
+Bolster			Enter people's dreams
+SkyKey			Used to control weather
+TmKey			Used to control time
+Tonic			Used to cure Nina of her amnesia
+Pass			Get past the guards in Scande
+B Parts			Broken parts of the Scande elevator
+I Claw			Mogu can dig through ground
+
+***********************
+***10. Weapons/Armor***
+***********************
+Weapons
+
+Name			Attack Power		Equip
+
+B.Rang			60			Ryu
+BoneCN	  		14			Bleu	
+BroadSD	  		34			Ryu
+BrokenSD  		42			Ryu
+BronzRP	  		7			Nina
+BronzSD	  		12			Ryu
+Cane      		8			Bleu
+Club	  		30			Ox
+Dagger	  		32			Karn
+DigCW			42			Mogu    
+Dirk			5			Ryu
+DragonSD  		110			Ryu
+DwarfBW	  		150			Bo
+EmporSD	  		255			Ryu
+EvilCN	  		20			Bleu
+EvilRP	  		55			Nina
+FlameDR   		74			Karn
+FlameHR	  		120			Ox
+FlameSD	  		122			Ryu
+GiantHR	  		60			Ox
+GlowCN	  		100			Bleu
+HeroBW	  		220			Bo
+HeroSP	  		56			Gobi
+IcyCN	  		30			Bleu
+IcyCW	  		88			Mogu
+IronCW	 		74			Mogu 
+IronHR	  		45			Ox
+IronRP	  		14			Nina
+JadeBW	  		80			Bo
+Javelin   		34			Gobi
+LightRP	  		10			Nina
+LongBW	  		28			Bo
+LongSD	  		26			Ryu
+LoyalRP	  		64			Nina
+Mallet	  		255			Ox
+MoonBW	  		66			Bo
+MystCW	  		120			Mogu
+MystSD	 		100			Ryu
+OldSP	  		42			Gobi
+Pike	  		24			Gobi
+PoisonBW  		42			Bo
+PoisonRP  		20			Nina
+Pole	  		12			Gobi
+PowerDR	  		66			Karn
+PowerRP	  		82			Nina
+PowerSD  		62			Ryu
+RageHR	  		75			Ox
+Rang	  		18			Ryu
+Rapier	  		10			Nina
+RustCW	 		60			Mogu 
+Sabre	  		8			Ryu
+Scythe	  		20			Ryu
+SharpBW	  		54			Bo
+ShortBW	  		20			Bo
+ShortRP  		5			Nina
+Sickle	  		50			Ryu
+SilverDR 		10			Karn
+Sleeper	  		100			Gobi
+SpineHR	 		120			Ox
+StarHR	 		210			Ox
+SteelBW	 		35			Bo
+Stick	 		5			Bleu
+ThrowDR	 		20			Karn
+ThundrRP 		46			Nina
+Tri-BW	 		96			Bo
+Tri-DR	 		54			Karn
+Tri-Rang 		150			Ryu
+Trident	 		74			Gobi
+WingRP	 		34			Nina
+WingSD	 		96			Ryu
+
+*****************
+***11. Credits***
+*****************
+1. I credit myself for making this guide.
+2. I credit Capcom for making such a great game.
+3. I credit gamefaqs for hosting this guide
+4. I credit neoseekers for hosting this guide
+
+***********************
+***12. E-mail Policy***
+***********************
+If you want to e-mail me and give me feedback or a tip about my site 
+then please free to go ahead. People that are rude while criticizing me 
+will have their e-mail address blocked. If you have questions about the 
+game then feel free to go ahead and e-mail as long as this guide 
+doesn't cover it. 
+
+E-mail Address- kpboy777@yahoo.com
+
+Copyright 2002-2003 Albert Cho
